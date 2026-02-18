@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-18T13:29:03.341Z",
+  "lastUpdated": "2026-02-18T13:29:08.008Z",
   "nextId": 2,
   "tickets": [
     {
       "id": "OPTX-0001",
       "title": "Test ticket",
-      "status": "backlog",
+      "status": "in-progress",
       "priority": "medium",
       "assignees": [
         "JP Madrigal"
       ],
-      "updatedAt": "2026-02-18T13:29:03.340Z"
+      "updatedAt": "2026-02-18T13:29:08.007Z"
     }
   ]
 }
