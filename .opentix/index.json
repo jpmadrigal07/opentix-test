@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-19T12:06:38.556Z",
+  "lastUpdated": "2026-02-19T12:06:39.734Z",
   "nextId": 2,
   "tickets": [
     {
       "id": "OPTX-0001",
       "title": "Create login page",
-      "status": "review",
+      "status": "done",
       "priority": "medium",
       "sprint": "SPR-0001",
       "assignees": [
         "JP Madrigal"
       ],
-      "updatedAt": "2026-02-19T12:06:37.902Z"
+      "updatedAt": "2026-02-19T12:06:39.375Z"
     }
   ]
 }
