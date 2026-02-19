@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-19T05:41:33.533Z",
+  "lastUpdated": "2026-02-19T05:47:41.169Z",
   "nextId": 2,
   "tickets": [
     {
       "id": "OPTX-0001",
       "title": "Create login page",
-      "status": "backlog",
+      "status": "in-progress",
       "priority": "medium",
       "sprint": "SPR-0001",
       "assignees": [
         "Cavalry Developers"
       ],
-      "updatedAt": "2026-02-19T05:41:33.526Z"
+      "updatedAt": "2026-02-19T05:47:41.138Z"
     }
   ]
 }
