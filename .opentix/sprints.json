@@ -1,5 +1,13 @@
 {
   "version": 1,
-  "nextId": 1,
-  "sprints": []
+  "nextId": 2,
+  "sprints": [
+    {
+      "id": "SPR-0001",
+      "name": "Sprint 1",
+      "startDate": "2026-02-16",
+      "endDate": "2026-03-01",
+      "type": "sprint"
+    }
+  ]
 }
